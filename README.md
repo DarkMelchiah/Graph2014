@@ -1,7 +1,7 @@
 Graph2014
 =========
 
-Small and simple algorithm that moves through a graph and find the leaves and articulation points of a given graph.
+Small and simple algorithm that finds the leaves and articulation points of a given graph.
 
 The Graph2014.java already includes 3 graphs that can be used to test the algorithm. Those can be edited so you can try it with different graph configurations.
 
